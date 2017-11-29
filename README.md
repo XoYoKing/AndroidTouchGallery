@@ -1,3 +1,8 @@
+支持双击或双指缩放的Gallery(用ViewPager实现)，相比下面的PhotoView，在被放大后依然能滑到下一个item，并且支持直接从url和文件中获取图片，
+项目地址：https://github.com/Dreddik/AndroidTouchGallery
+Demo地址：https://github.com/Trinea/TrineaDownload/blob/master/touch-gallery-demo.apk?raw=true
+APP示例：类似微信中查看聊天记录图片时可双击放大，并且放大情况下能正常左右滑动到前后图片
+
 Attention please!
 ===================
 This library is not supported anymore. Please, check out nice living forks!
